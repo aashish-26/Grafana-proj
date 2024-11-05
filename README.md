@@ -1,5 +1,7 @@
 # Grafana-proj
 
+This project is inspired from https://www.youtube.com/watch?v=QwGm5m4AxNA&t=341s
+
 Install Grafana on Debian or Ubuntu
 sudo apt-get install -y apt-transport-https
 sudo apt-get install -y software-properties-common wget
